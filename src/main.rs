@@ -32,7 +32,7 @@ async fn main() -> Result<()> {
 
     // Fetch the webpage
     let client = reqwest::Client::builder()
-        .user-agent("url-to-markdown/0.1.0")
+        .user_agent("url-to-markdown/0.1.0")
         .build()
         .context("Failed to build HTTP client")?;
 
