@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "A fast CLI tool to convert webpages to Markdown"
 license = "MIT"
-repository = "https://github.com/dariocositore/url-to-markdown-rust"
+repository = "https://github.com/dario-cositore/url-to-markdown-rust"
 keywords = ["markdown", "html", "converter", "cli", "webpage"]
 categories = ["command-line-utilities", "text-processing"]
 

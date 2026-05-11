@@ -14,7 +14,7 @@ A fast, lightweight CLI tool that converts webpages to clean Markdown.
 ### From source
 
 ```bash
-git clone https://github.com/dariocositore/url-to-markdown-rust.git
+git clone https://github.com/dario-cositore/url-to-markdown-rust.git
 cd url-to-markdown-rust
 cargo build --release
 ```
